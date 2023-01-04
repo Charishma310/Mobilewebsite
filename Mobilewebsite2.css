@@ -1,0 +1,33 @@
+.bgimg2{
+	background-image: url('https://res.cloudinary.com/dwvehbbuu/image/upload/v1672224242/mobilebackground_ahjmbs.webp');
+	background-size:cover ;
+	height: 150vh;
+}
+.mobilehead{
+	color: white;
+	font-family: Roboto;
+	font font-weight: bold;
+	font-weight: 20px;
+	padding: 20px;
+}
+.layoutcard2{
+	background-color: white;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 18px;
+}
+.brandsimg{
+	width: 125px;
+	height: 125px;
+}
+.brandshead{
+	color: #a83285;
+	font-family:'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.brandspara{
+	color: purple;
+	font-family: 'Roboto';
+	font-size: 15px;
+}

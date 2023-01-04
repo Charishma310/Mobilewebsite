@@ -1,0 +1,21 @@
+.bgimg{
+	background-image: url('https://res.cloudinary.com/dwvehbbuu/image/upload/v1672224242/mobilebackground_ahjmbs.webp');
+	background-size: cover;
+	height: 100vh
+}
+.layoutcard{
+	background-color: white;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 20px ;
+}
+.heading{
+	color: red;
+	font-family:Roboto;
+	font-weight: bold;
+}
+.paraline{
+	font-family: Roboto;
+	color: maroon;
+}
