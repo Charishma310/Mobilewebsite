@@ -1,0 +1,21 @@
+.bgimg{
+	background-image: url(https://res.cloudinary.com/dwvehbbuu/image/upload/v1672234512/foodddddddd_fpnx3z.webp);
+	background-size: cover;
+	height: 100vh;
+}
+.layoutcard{
+	background-color: orange;
+	height: 200px;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	padding: 20px;
+}
+.heading{
+	color: black;
+	font-family: Roboto;
+	font-weight: bold;
+}
+.paraline{
+	font-family: Roboto;
+	color: white;
+}

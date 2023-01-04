@@ -1,0 +1,33 @@
+.bgimg2{
+	background-image: url('https://resinary.com/dwvehbbuu/image/upload/v1672307010/2222_hwv8f4.webp');
+	background-size: cover;
+	height: 150vh;
+}
+.foodhead{
+	color: black;
+	font-family: Roboto;
+	font-weight:bold;
+	font-weight: 20px;
+	padding: 20px;
+}
+.layoutcard2{
+	background-color: black;
+	border-radius: 8px;
+	padding: 20px;
+	margin: 18px;
+}
+.varietiesimg{
+	width: 125px;
+	height: 125px;
+}
+.varietieshead{
+	color:#fca103 ;
+	font-family: 'Roboto';
+	font-weight: bold;
+	font-size: 30px;
+}
+.varietiespara{
+	color: floralwhite;
+	font-family: 'Roboto';
+	font-size: 15px;
+}
